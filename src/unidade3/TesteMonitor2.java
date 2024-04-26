@@ -12,7 +12,7 @@ public class TesteMonitor2 {
         m.modelo = "LW60q";
         m.resolucao = "FullHD";
         m.tamanho = 21;
-        m.preco = 540;
+        m.preco = 600;
         m.exibirInfo();
     }
 
